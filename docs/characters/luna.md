@@ -1,109 +1,168 @@
-LUNA — The Clever Fox
+# LUNA — Character Bible
 
-Character Bible · Version 1.0
+**Character:** The Clever Fox
+**Role:** Team problem-solver and explainer
+**Bible status:** Enhanced from the character reference sheet
 
-1. Character Description
+## 1. Character Description
 
-Luna is a clever, friendly, and adventurous young fox who loves learning new things. She is the problem-solver of the group and often helps Max and Robo understand the world around them.
+Luna is a smart, kind, and adventurous young fox who loves learning and helping others understand. She turns questions into clear steps, notices useful details, and finds creative solutions while keeping the group positive and involved.
 
-She enjoys reading, exploring, experimenting, and discovering clever solutions to everyday problems.
+She is the team’s thinking partner for Max and Robo. Max discovers things, Luna helps him understand them, and Robo supplies data or technology. Luna shares knowledge in a simple, encouraging way and never uses intelligence to embarrass or dominate others.
 
-Although she is intelligent, she is never arrogant. She loves sharing knowledge and helping her friends.
+## 2. Personality
 
-2. Personality
+- Smart and thoughtful.
+- Patient and encouraging.
+- Curious about nature, science, puzzles, and technology.
+- Playful with a warm sense of humor.
+- Confident but never bossy.
+- Calm when a problem becomes complicated.
+- Excited when an answer becomes clear.
+- Willing to make mistakes and revise an idea.
+- A reliable team player who ensures everyone participates.
 
-* Smart and thoughtful.
-* Kind, patient, and supportive.
-* Playful with a good sense of humor.
-* Curious about science, nature, and technology.
-* Confident but never bossy.
-* Enjoys solving puzzles and challenges.
-* Encourages her friends instead of criticizing them.
-* Sometimes gets excited when she discovers something new.
+**Core behavior:** Observe, think, explain, test, and invite the group to solve together.
 
-3. Voice Profile
+**Character weakness:** Luna can occasionally become too focused on explaining the full answer instead of letting her friends discover it themselves.
 
-Attribute	Description
-Tone	Warm, friendly, cheerful
-Energy	Moderate to high
-Voice age	Young girl, around 6–9
-Pitch	Medium-high
-Speaking speed	Clear, moderately paced
-Emotion	Expressive and encouraging
-Accent	Neutral international English
-Speaking style	Intelligent but simple and child-friendly
+## 3. Voice Profile
 
-Signature phrase: “Let’s figure it out!”
+| Attribute | Direction |
+|---|---|
+| Tone | Warm, friendly, and enthusiastic |
+| Energy | Moderate to high |
+| Voice age | Young girl, around 6–9 |
+| Pitch | Medium-high |
+| Speaking speed | Clear and moderately paced |
+| Accent | Neutral international English |
+| Speaking style | Intelligent but simple, confident and encouraging |
 
-Other expressions:
+**Signature phrase:** “Let’s figure it out!”
 
-* “I have an idea!”
-* “That’s interesting!”
-* “Think about it!”
-* “We can solve this together!”
-* “Aha! Now I understand!”
+**Other expressions:**
 
-4. Visual Identity
+- “I have an idea.”
+- “That’s interesting.”
+- “Think about it.”
+- “We can solve this together.”
+- “Aha! Now I understand.”
+- “Everyone check this clue.”
 
-* Species: Fox
-* Gender presentation: Female
-* Age appearance: Young fox, around 6–9 years old
-* Fur: Bright natural orange.
-* Muzzle and cheeks: Cream white.
-* Tail: Large, fluffy orange tail with a white tip.
-* Eyes: Large expressive brown eyes.
-* Ears: Pointed fox ears with cream-colored inner fur.
-* Accessories: Purple explorer goggles.
-* Clothing: Purple adventure vest.
-* Scarf: Bright yellow.
-* Bag: Small brown explorer satchel.
-* Signature object: Green learning and adventure notebook.
+## 4. Visual Identity
 
-5. Color Palette
+**Species:** Fox
+**Gender presentation:** Female
+**Age appearance:** Young child, around 6–9
+**Body type:** Slim but sturdy, with an expressive fluffy tail
 
-Element	Color	Hex
-Main fur	Orange	#F8942C
-Belly/muzzle	Cream	#F8E7D9
-Ear accents	Dark brown	#6B3E2E
-Scarf	Yellow	#FFD447
-Vest	Purple	#7A4ED6
-Goggles	Deep purple	#8D54C6
-Goggle lenses	Light blue	#67C5FF
-Bag	Warm brown	#8B5A2B
-Eyes	Dark brown	#3B1F0F
+### Fur and face
 
-6. Five Facial Expressions
+- Bright burnt-orange main fur.
+- Cream muzzle and cheeks.
+- Cream inner ears.
+- Dark-brown ear tips and ear accents.
+- Large, expressive brown eyes.
+- Brown nose.
+- Pointed ears and a broad, playful smile.
+- A large fluffy orange tail with a clean cream-white tip.
 
-* Happy — Friendly smile, bright eyes.
-* Thinking — One eyebrow raised, thoughtful expression.
-* Surprised — Wide eyes and open mouth.
-* Excited — Big smile, closed joyful eyes.
-* Determined — Focused eyes and confident smile.
+### Clothing and equipment
 
-7. Three Body Poses
+- Purple explorer goggles worn on the head.
+- Light-blue goggle lenses.
+- Deep purple adventure vest.
+- Front straps and pockets for the vest.
+- Bright yellow scarf.
+- Warm-brown explorer satchel with a dark-brown strap.
+- Small purple pouch or side bag.
+- Green learning and adventure notebook.
+- Optional leaf emblem or natural accessory on the satchel.
 
-* Explaining: Sitting with her notebook, sharing knowledge.
-* Problem-solving: Standing with one finger raised, showing an idea.
-* Celebrating: Jumping happily after solving a problem.
+### Turnaround
 
-8. Personality and Behavior Rules
+- **Front view:** Symmetrical face, cream cheeks and muzzle, yellow scarf, purple vest, brown satchel, and long tail held behind.
+- **Side view:** Shows the full fluffy orange tail, pointed ear profile, satchel strap, and purple vest pockets.
+- **Three-quarter view:** Preserves the cheek shape, visible goggle frame, scarf, and asymmetrical satchel position.
 
-* Always kind and respectful.
-* Never makes fun of Max or Robo.
-* Explains complicated things using simple language.
-* Encourages teamwork.
-* Never acts superior because she is clever.
-* Helps friends learn through discovery rather than simply giving answers.
-* Can make mistakes and learn from them.
-* Always maintains a positive attitude.
-* Celebrates everyone’s achievements.
+## 5. Color Palette
 
-9. Character Relationships
+| Element | Color | Hex |
+|---|---|---|
+| Main fur | Orange | `#F8942C` |
+| Muzzle / cheeks | Cream | `#F8E7D9` |
+| Ear tips / accents | Dark brown | `#6B3E2E` |
+| Scarf | Yellow | `#FFD447` |
+| Vest | Purple | `#7A4ED6` |
+| Goggles frame | Deep purple | `#8D54C6` |
+| Goggle lenses | Light blue | `#67C5FF` |
+| Bag / satchel | Warm brown | `#8B5A2B` |
+| Bag strap | Mid brown | `#6B4428` |
+| Notebook | Leaf green | `#72A45A` |
+| Inner ear | Cream | `#F8E7D9` |
+| Eyes | Dark brown | `#3B1F0F` |
 
-With Max: Luna is Max’s thinking partner. Max discovers something new, and Luna helps him understand it.
+## 6. Facial Expressions
 
-With Robo: Luna enjoys Robo’s funny misunderstandings and helps him understand things logically.
+1. **Happy / default:** Friendly smile, bright eyes, relaxed ears.
+2. **Thinking / contemplative:** One eyebrow raised or head tilted, focused eyes, tail calm.
+3. **Surprised:** Eyes wide, eyebrows raised, open mouth.
+4. **Excited:** Broad smile with closed, joyful eyes.
+5. **Determined:** Focused eyes and confident smile, especially during a problem-solving pose.
 
-With the group: She is the team’s friendly problem-solver and encourages everyone to participate.
+## 7. Body Poses
 
-Important production rule: Luna must always retain the same orange fur, cream muzzle, fluffy white-tipped tail, purple goggles, yellow scarf, purple vest, and brown satchel in every episode.
+1. **Explaining / sharing knowledge:** Sitting with the green notebook and pointing to an observation or diagram.
+2. **Problem-solving:** Standing with one finger raised, holding a magnifying glass or pointing toward a solution.
+3. **Leading the team / taking action:** Running or walking confidently with the satchel, scarf, and tail in motion.
+
+## 8. Behavior and Consistency Rules
+
+- Always remain kind, positive, and respectful.
+- Explain complicated ideas with simple language.
+- Encourage Max and Robo rather than giving every answer for them.
+- Ask questions that lead to discovery.
+- Accept and learn from mistakes.
+- Celebrate the group’s achievements before her own.
+- Keep the animation readable for children.
+- Never act superior because she understands something first.
+
+**Comedy rule:** Luna may react playfully to the others’ misunderstandings, but should never mock them.
+
+## 9. Character Relationships
+
+### With Max
+
+Luna is Max’s thinking partner. She listens to his observations, organizes the evidence, and helps him turn excitement into understanding.
+
+### With Robo
+
+Luna respects Robo’s technological skills and helps him understand the difference between data and context. Robo provides measurements or systems; Luna helps interpret what they mean.
+
+### With the Group
+
+Luna keeps the team moving, gives everyone a role, and makes problem-solving feel collaborative.
+
+## 10. Production Consistency
+
+Permanent visual features:
+
+- Orange fur with cream muzzle and inner ears.
+- Large fluffy tail with a cream-white tip.
+- Brown eyes.
+- Purple goggles.
+- Yellow scarf.
+- Purple vest.
+- Brown satchel.
+- Green notebook.
+
+Animation rules:
+
+- Use hand gestures and notebook visuals to support explanations.
+- Keep tail movement expressive but controlled.
+- Let her solve problems visually, not only through dialogue.
+- Preserve the same proportions and silhouettes across turns and poses.
+
+Storytelling rule:
+
+Luna should leave every episode having helped the team learn a method or idea, not merely having supplied a correct answer.
