@@ -49,6 +49,8 @@ Avoid:
 
 Each concept must be meaningfully different.
 
+Read our docs to get more insights about our YouTube channel and our project ([/docs](/docs)).
+
 Return valid JSON:
 
 ```JSON
