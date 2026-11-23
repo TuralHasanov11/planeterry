@@ -24,4 +24,4 @@ Use the provided character reference descriptions for every scene.
 
 I recommend generating scripts with approximately 60–75 spoken words for a 30-second video, then timing the narration rather than relying on word count alone.
 
-Read our docs to get more insights about our YouTube channel and our project ([/docs](/docs)).
+Refer to our business-overview.md `(docs\business-overview.md)`, channel-positioning.md `docs\channel-positioning.md`, character bible files
