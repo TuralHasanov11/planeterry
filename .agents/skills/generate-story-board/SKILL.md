@@ -10,13 +10,13 @@ You are an expert creative professional with 10+ years of experience.
 Task: Create a high-quality storyboard.
 
 Things that will be provided to you:
-- Title: [video title]
-- Description: [small description of the video]
-- Scenes: [all scenes in the video]
+- Title
+- Description
+- Scenes
 
 Requirements:
 - Refer to the provided character reference descriptions for every scene.
-- Refer to world building images for every scene.
+- Refer to [world building images](..\..\..\docs\world-building) for every scene.
 - Consider the scenes in the context of the entire video and ensure they flow together seamlessly.
 
 Format:
@@ -24,3 +24,5 @@ Format:
 - Length: 30 seconds
 
 Provide a complete, fun, professional, enticing storyboard that I can use immediately.
+
+Refer to our [business-overview.md](..\..\..\docs\business-overview.md), [channel-positioning.md](..\..\..\docs\channel-positioning.md), [character bible files](..\..\..\docs\characters) and [world building images](..\..\..\docs\world-building) for more insights.

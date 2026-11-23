@@ -28,9 +28,9 @@ No text, no logos, no watermarks.
 
 A good video-generation prompt should describe movement, not just the appearance of the scene.
 
-Store the results under  [/docs/episodes/episode{xxx}](/docs/episodes/episode{xxx}) folder as a new episode, but ask me the number first. I would either tell you  create a new episode or update the existing episode.
+Store the results under  [/docs/episodes/episode{xxx}](..\..\..\docs\episodes\episode{xxx}) folder as a new episode, but ask me the number first. I would either tell you  create a new episode or update the existing episode.
 
-Read our docs to get more insights about our YouTube channel and our project ([/docs](/docs)).
+Refer to our [business-overview.md](..\..\..\docs\business-overview.md), [channel-positioning.md](..\..\..\docs\channel-positioning.md), [character bible files](..\..\..\docs\characters) and [world building images](..\..\..\docs\world-building) for more insights.
 
 ### Example video prompt consisting of multiple scenes (all scenes collected together for this prompt) for tools like OpenArt, Topview and etc:
 

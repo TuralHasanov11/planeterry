@@ -49,4 +49,4 @@ Avoid:
 
 Each concept must be meaningfully different.
 
-Read our docs to get more insights about our YouTube channel and our project ([/docs](/docs)).
+Refer to our [business-overview.md](..\..\..\docs\business-overview.md), [channel-positioning.md](..\..\..\docs\channel-positioning.md), [character bible files](..\..\..\docs\characters) and [world building images](..\..\..\docs\world-building) for more insights.
